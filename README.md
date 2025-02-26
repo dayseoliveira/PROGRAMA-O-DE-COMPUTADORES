@@ -1,2 +1,2 @@
-# -PROGRAMA-O-DE-COMPUTADORES-
+# PROGRAMA-O-DE-COMPUTADORES
 Este repositório contém exercícios do curso de linguagem C 
